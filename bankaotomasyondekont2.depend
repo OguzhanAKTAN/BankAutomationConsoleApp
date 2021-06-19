@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558404716 source:c:\users\aktan\desktop\yazilim (oguzhan aktan)\codeblocks\bankaotomasyondekont2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

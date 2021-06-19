@@ -1,0 +1,6 @@
+Kayitli Musteri Sayisi :1
+Bloke Edilmis Hesap Sayisi :0
+Bloke Edilmis Hesaplar
+-------------------------
+
+Bankadaki Toplam Para  :5100.00
